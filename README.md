@@ -1,2 +1,4 @@
 # VIX-id-x-partners-Data-Scientist-
 Project-Based Internship by Rakamin Academy Batch March 2024
+
+This Project Based Internship program provides virtual internship experience as a Data Scientist at ID/X Partners. I will be positioned as an Intern Data Scientist who is exposed to problems, case studies and projects that become ID/X Partners' daily routine. Data scientists will collaborate with business analysts, data engineers, software engineers, project managers, on the same project to provide the best IT Solution for clients. I will be challenged to master and implement various skills and tools commonly used at ID/X Partners, such as Big Data Fundamentals, Statistics & Data Analytics, SQL Querying, R Programming, Python Programming, Machine Learning, etc. In the final part, I will be given the challenge to complete end-to-end Machine Learning modeling to create data science solutions for clients.
